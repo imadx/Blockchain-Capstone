@@ -4,12 +4,22 @@ The capstone will build upon the knowledge you have gained in the course in orde
 
 # Testing
 
-### Compile
+### Compile and Test
 
 - Install truffle with `npm install -g truffle`
 - Run ganache locally
 - Update configuration in truffle-config.js to match your local ganache instance
 - Compile and run tests on the contracts with `truffle test`
+
+
+### Deployed contracts
+
+#### SolnSquareVerifier
+https://rinkeby.etherscan.io/address/0xe77BB5267713386B826E091528eDD4bEd4F1959a
+
+#### Verifier
+https://rinkeby.etherscan.io/address/0xcdad5a16128e4fdae99c4732f30fa42a881c1696
+
 
 # Project Resources
 
